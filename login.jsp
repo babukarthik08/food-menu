@@ -13,7 +13,7 @@
         ResultSet rs= st.executeQuery(query);
         if(! rs.next()) {
 %>      
-            <jsp:forward page="login.html"/>
+            <jsp:forward page="restaurants_data.html"/>
 <%
         }
         else{

@@ -1,0 +1,70 @@
+.main{
+    background: url(food.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 35rem;
+
+}
+.navbar-brand{
+    margin-left: 20px;
+
+}
+
+.icon{
+    width:40px;
+}
+.nav-link{
+    font-size:x-small;
+    color: red;
+}
+.menu,.tag{
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+
+}
+.title{
+    margin-top:135px;
+}
+.navbar,.tag{
+    font-family: 'Inter', sans-serif;
+
+
+}
+.tag{
+    font-size: 200%;
+}
+.menu{
+    font-family: 'Pacifico', cursive;
+    font-size: 600%;
+
+}
+
+.pbody{
+    padding-top: 40px;
+    height: 500px;
+    background-color: rgb(250, 249, 246);
+}
+
+.card-img-top{
+    width: 500px;
+    height: 200px;
+}
+
+.card{
+    margin: auto;
+}
+
+.card:hover{
+    transform: scale(1.1) ;
+    text-shadow: 100px;
+    transition: .3s;
+    
+    
+}
+
+.places{
+    width:500px;
+    display: flex;
+    padding: 30px;
+}
